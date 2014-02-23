@@ -1,0 +1,64 @@
+@font-face {
+  font-family: 'armataregular';
+  src: url('../font-face/armata-regular-webfont.eot');
+  src: local('?'), /* direttiva local per IE */ url('../font-face/armata-regular-webfont.woff') format('woff'), /* Firefox 3.6+, Chrome 5.0+, IE 9.0+ */ url('../font-face/armata-regular-webfont.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  /* per IE 5-8 */
+  /* Opera, Safari */
+}
+
+@font-face {
+  font-family: 'latohairline';
+  src: url('../font-face/lato-hai-webfont.eot');
+  src: url('../font-face/lato-hai-webfont.woff') format('woff'), /* Firefox 3.6+, Chrome 5.0+, IE 9.0+ */ url('../font-face/lato-hai-webfont.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  /* per IE 5-8 */
+  /* Opera, Safari */
+}
+
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Lato Light'), local('Lato-Light'), url(http://themes.googleusercontent.com/static/fonts/lato/v7/KT3KS9Aol4WfR6Vas8kNcg.woff) format('woff');
+}
+
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Lato Regular'), local('Lato-Regular'), url(http://themes.googleusercontent.com/static/fonts/lato/v7/9k-RPmcnxYEPm8CNFsH2gg.woff) format('woff');
+}
+
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Lato Bold'), local('Lato-Bold'), url(http://themes.googleusercontent.com/static/fonts/lato/v7/wkfQbvfT_02e2IWO3yYueQ.woff) format('woff');
+}
+
+@font-face {
+    font-family: 'bonvenocflight';
+    src: url('../font-face/bonvenocf-light-webfont.eot');
+    src: url('../font-face/bonvenocf-light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../font-face/bonvenocf-light-webfont.woff') format('woff'),
+         url('../font-face/bonvenocf-light-webfont.ttf') format('truetype'),
+         url('../font-face/bonvenocf-light-webfont.svg#bonvenocflight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'neouthin';
+    src: url('../font-face/neou-thin-webfont.eot');
+    src: url('../font-face/neou-thin-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../font-face/neou-thin-webfont.woff') format('woff'),
+         url('../font-face/neou-thin-webfont.ttf') format('truetype'),
+         url('../font-face/neou-thin-webfont.svg#neouthin') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@import url(http://fonts.googleapis.com/css?family=Roboto:400,300,100);
